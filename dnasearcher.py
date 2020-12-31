@@ -1,4 +1,4 @@
-file = open('/Users/neeltangella/Desktop/DNA.txt', 'r')
+file = open('/.txt', 'r')
 read_file = file.read()
 target = 'AGCTAGC'
 new_target = (list(target))
